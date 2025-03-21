@@ -47,6 +47,7 @@ The goal of this project is to create an AI-assisted mental health companion tha
 ```bash
 git clone https://github.com/your-username/Mental-Health-Companion-App.git
 cd Mental-Health-Companion-App
+'''
 
 ### Step 2: Install Dependencies
 pip install -r requirements.txt
