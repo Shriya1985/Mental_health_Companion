@@ -44,7 +44,7 @@ The goal of this project is to create an AI-assisted mental health companion tha
 ## 🚀 How to Run Locally
 
 ### Step 1: Clone the Repository
-git clone https://github.com/Shriya1985/Mental-health-Companion.git
+git clone https://github.com/Shriya1985/Mental_health_Companion
 cd Mental-Health-Companion-App
 
 ### Step 2: Install Dependencies
